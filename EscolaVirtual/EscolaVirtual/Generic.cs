@@ -14,8 +14,11 @@ namespace EscolaVirtual
         public static List<Professor> ListaProfessores = new List<Professor>();
         public static List<Disciplina> ListaDisciplinas = new List<Disciplina>();
         public static List<Turma> ListaTurmas = new List<Turma>();
+        public static List<InfoChangeRequest> ChangeRequests { get; set; } = new List<InfoChangeRequest>();
 
         public static Admin admin = new Admin("admin", "admin");
+        public static Professor CurrentProfessor = null;
+        public static Aluno CurrentAluno = null;
 
 
     }

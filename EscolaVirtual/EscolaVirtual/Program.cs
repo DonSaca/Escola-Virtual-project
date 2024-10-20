@@ -11,12 +11,19 @@ namespace EscolaVirtual
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+         public static LoginForm loginFormInstance;
         [STAThread]
+       
         static void Main()
         {
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LoginForm());
+
+            loginFormInstance = new LoginForm();
+            Application.Run(loginFormInstance);
+
+            
         }
     }
 }

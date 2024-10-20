@@ -31,3 +31,5 @@ C:\Users\vanes\Downloads\EscolaVirtual\EscolaVirtual\EscolaVirtual\obj\Debug\Esc
 C:\Users\vanes\Downloads\EscolaVirtual\EscolaVirtual\EscolaVirtual\obj\Debug\EscolaVirtual.csproj.CoreCompileInputs.cache
 C:\Users\vanes\Downloads\EscolaVirtual\EscolaVirtual\EscolaVirtual\obj\Debug\EscolaVirtual.exe
 C:\Users\vanes\Downloads\EscolaVirtual\EscolaVirtual\EscolaVirtual\obj\Debug\EscolaVirtual.pdb
+C:\Users\vanes\Downloads\EscolaVirtual\EscolaVirtual\EscolaVirtual\obj\Debug\EscolaVirtual.ProfessorForm.resources
+C:\Users\vanes\Downloads\EscolaVirtual\EscolaVirtual\EscolaVirtual\obj\Debug\EscolaVirtual.AlunoForm.resources

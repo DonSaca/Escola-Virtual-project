@@ -74,7 +74,7 @@ namespace EscolaVirtual
             cbTurmasAluno.DisplayMember = "DisplayText";
         }
 
-        private void CriarAsDisciplinas()
+        public void CriarAsDisciplinas()
         {
             try
             {
@@ -109,20 +109,37 @@ namespace EscolaVirtual
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            CriarDummyTurmas();
-            CriarAsDisciplinas();
+            
+            
             cbAnos.DataSource = Generic.ListaAnos;
             cbAnos.DisplayMember = "Classe";
 
             cbTurmasProfessor.DataSource = Generic.ListaTurmas;
             cbTurmasProfessor.DisplayMember = "DisplayText";
 
+
+           
+                foreach (var request in Generic.ChangeRequests.Where(r => r.Status == "Pending"))
+                {
+                    var listItem = new ListViewItem(new[]
+                    {
+                request.Username,
+                request.FieldName,
+                request.CurrentValue,
+                request.RequestedValue
+            });
+
+                    lvwPedidos.Items.Add(listItem);
+                }
+            
+
         }
        
 
         private void btnLogout_Click(object sender, EventArgs e)
         {
-
+            Program.loginFormInstance.Show();
+            this.Hide();
         }
 
         private void btnCriarTurma_Click(object sender, EventArgs e)
@@ -204,8 +221,29 @@ namespace EscolaVirtual
         private void tcMain_SelectedIndexChanged(object sender, EventArgs e)
         {
             UpdateComboboxes();
-            
-            
+
+            cbAnos.DataSource = Generic.ListaAnos;
+            cbAnos.DisplayMember = "Classe";
+
+            cbTurmasProfessor.DataSource = Generic.ListaTurmas;
+            cbTurmasProfessor.DisplayMember = "DisplayText";
+
+
+
+            foreach (var request in Generic.ChangeRequests.Where(r => r.Status == "Pending"))
+            {
+                var listItem = new ListViewItem(new[]
+                {
+                request.Username,
+                request.FieldName,
+                request.CurrentValue,
+                request.RequestedValue
+            });
+
+                lvwPedidos.Items.Add(listItem);
+            }
+
+
         }
 
         private void cbTurmasAluno_SelectedIndexChanged(object sender, EventArgs e)
@@ -356,6 +394,75 @@ namespace EscolaVirtual
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
                 e.Handled = true;
+            }
+        }
+
+        private void btnAprovar_Click(object sender, EventArgs e)
+        {
+            if (lvwPedidos.SelectedItems.Count > 0)
+            {
+                ListViewItem selectedItem = lvwPedidos.SelectedItems[0];
+                string username = selectedItem.SubItems[0].Text;
+                string fieldName = selectedItem.SubItems[1].Text;
+                string requestedValue = selectedItem.SubItems[3].Text;
+
+                var aluno = Generic.ListaAlunos.FirstOrDefault(a => a.User == username);
+                if (aluno != null)
+                {
+                    // Update the field based on the approved request
+                    switch (fieldName)
+                    {
+                        case "Contacto":
+                            aluno.Contacto = requestedValue;
+                            break;
+                        case "Morada":
+                            aluno.Morada = requestedValue;
+                            break;
+                        case "Password":
+                            aluno.Password = requestedValue;
+                            break;
+                    }
+
+                    // Update the request status
+                    var request = Generic.ChangeRequests.First(r => r.FieldName == fieldName && r.RequestedValue == requestedValue);
+                    request.Status = "Approved";
+
+                    MessageBox.Show("Alteraçao aprovada.");
+                }
+            }
+        }
+
+        private void btnNegar_Click(object sender, EventArgs e)
+        {
+
+            if (lvwPedidos.SelectedItems.Count > 0)
+            {
+                ListViewItem selectedItem = lvwPedidos.SelectedItems[0];
+                string username = selectedItem.SubItems[0].Text;
+                string fieldName = selectedItem.SubItems[1].Text;
+                string requestedValue = selectedItem.SubItems[3].Text;
+
+                var aluno = Generic.ListaAlunos.FirstOrDefault(a => a.User == username);
+                if (aluno != null)
+                {
+                    // Update the request status to rejected
+                    var request = Generic.ChangeRequests.First(r => r.FieldName == fieldName && r.RequestedValue == requestedValue);
+                    request.Status = "Rejected";
+
+                    MessageBox.Show("Change rejected.");
+                }
+            }
+        }
+
+        private void lbTurmas_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            var turma = (Turma)lbTurmas.SelectedItem;
+            var Professores = turma.Professores;
+            var Alunos = turma.Alunos;
+
+            foreach( var aluno in Alunos )
+            {
+
             }
         }
     }

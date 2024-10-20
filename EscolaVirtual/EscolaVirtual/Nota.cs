@@ -12,5 +12,13 @@ namespace EscolaVirtual
         public double Valor { set; get; }
         public Disciplina Disciplina { set; get; }
         public DateTime DataLancamento { set; get; }
+
+        public Nota(double valor, Disciplina disciplina)
+        {
+            Valor = valor;
+            Disciplina = disciplina;
+            DateTime dataLancamento=DateTime.Now;
+            DataLancamento = dataLancamento;
+        }
     }
 }

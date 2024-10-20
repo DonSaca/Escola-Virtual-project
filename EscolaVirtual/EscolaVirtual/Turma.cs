@@ -10,7 +10,7 @@ namespace EscolaVirtual
     {
         public string Nome { set; get; }
         public int Ano { set; get; }
-        public List<Disciplina> disciplinas = new List<Disciplina>();
+        public List<Disciplina> Disciplinas = new List<Disciplina>();
         public List<Aluno> Alunos = new List<Aluno>();
         public List<Professor> Professores = new List<Professor>();
         public string DisplayText

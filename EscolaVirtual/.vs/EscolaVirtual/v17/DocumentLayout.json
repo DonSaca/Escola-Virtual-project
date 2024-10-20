@@ -3,32 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|c:\\users\\vanes\\downloads\\escolavirtual\\escolavirtual\\escolavirtual\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\escolavirtual\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\escolavirtual\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|c:\\users\\vanes\\downloads\\escolavirtual\\escolavirtual\\escolavirtual\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\escolavirtual\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|c:\\users\\vanes\\downloads\\escolavirtual\\escolavirtual\\escolavirtual\\alunoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\alunoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\escolavirtual\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|c:\\users\\vanes\\downloads\\escolavirtual\\escolavirtual\\escolavirtual\\professorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\professorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\escolavirtual\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|c:\\users\\vanes\\downloads\\escolavirtual\\escolavirtual\\escolavirtual\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|c:\\users\\vanes\\downloads\\escolavirtual\\escolavirtual\\escolavirtual\\infochangerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\infochangerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|c:\\users\\vanes\\downloads\\escolavirtual\\escolavirtual\\escolavirtual\\alunoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\alunoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\escolavirtual\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|c:\\users\\vanes\\downloads\\escolavirtual\\escolavirtual\\escolavirtual\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|c:\\users\\vanes\\downloads\\escolavirtual\\escolavirtual\\escolavirtual\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\escolavirtual\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|c:\\users\\vanes\\downloads\\escolavirtual\\escolavirtual\\escolavirtual\\alunoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\alunoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|c:\\users\\vanes\\downloads\\escolavirtual\\escolavirtual\\escolavirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|c:\\users\\vanes\\downloads\\escolavirtual\\escolavirtual\\escolavirtual\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\escolavirtual\\ano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\ano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\escolavirtual\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB75CDB-83A6-42EA-9FFB-3AD0B732C321}|EscolaVirtual\\EscolaVirtual.csproj|solutionrelative:escolavirtual\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,68 +78,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Admin.cs",
-              "RelativeDocumentMoniker": "EscolaVirtual\\Admin.cs",
-              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Admin.cs",
-              "RelativeToolTip": "EscolaVirtual\\Admin.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAA0wDIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:23:30.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Generic.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Generic.cs",
-              "RelativeDocumentMoniker": "EscolaVirtual\\Generic.cs",
-              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Generic.cs",
-              "RelativeToolTip": "EscolaVirtual\\Generic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:12:35.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Ano.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Ano.cs",
-              "RelativeDocumentMoniker": "EscolaVirtual\\Ano.cs",
-              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Ano.cs",
-              "RelativeToolTip": "EscolaVirtual\\Ano.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:11:14.341Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Turma.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Turma.cs",
-              "RelativeDocumentMoniker": "EscolaVirtual\\Turma.cs",
-              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Turma.cs",
-              "RelativeToolTip": "EscolaVirtual\\Turma.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Title": "AlunoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\AlunoForm.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\AlunoForm.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\AlunoForm.cs [Design]",
+              "RelativeToolTip": "EscolaVirtual\\AlunoForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:05:43.099Z"
+              "WhenOpened": "2024-10-20T22:32:31.603Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdminForm.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\AdminForm.cs",
-              "RelativeDocumentMoniker": "EscolaVirtual\\AdminForm.cs",
-              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\AdminForm.cs",
-              "RelativeToolTip": "EscolaVirtual\\AdminForm.cs",
-              "ViewState": "AgIAANMAAAAAAAAAAAAkwOEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Professor.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\Professor.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Professor.cs",
+              "RelativeToolTip": "EscolaVirtual\\Professor.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvz0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:03:55.632Z",
+              "WhenOpened": "2024-10-16T20:53:52.998Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfessorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\ProfessorForm.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\ProfessorForm.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\ProfessorForm.cs [Design]",
+              "RelativeToolTip": "EscolaVirtual\\ProfessorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:58:05.943Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -110,19 +130,176 @@
               "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\AdminForm.cs [Design]",
               "RelativeToolTip": "EscolaVirtual\\AdminForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:03:51.946Z"
+              "WhenOpened": "2024-10-20T20:01:20.384Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Professor.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Professor.cs",
-              "RelativeDocumentMoniker": "EscolaVirtual\\Professor.cs",
-              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Professor.cs",
-              "RelativeToolTip": "EscolaVirtual\\Professor.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\AdminForm.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\AdminForm.cs",
+              "RelativeToolTip": "EscolaVirtual\\AdminForm.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAgwN4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:53:52.998Z"
+              "WhenOpened": "2024-10-16T20:03:55.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Aluno.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\Aluno.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Aluno.cs",
+              "RelativeToolTip": "EscolaVirtual\\Aluno.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:35:58.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlunoForm.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\AlunoForm.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\AlunoForm.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\AlunoForm.cs",
+              "RelativeToolTip": "EscolaVirtual\\AlunoForm.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwE4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:59:50.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InfoChangeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\InfoChangeRequest.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\InfoChangeRequest.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\InfoChangeRequest.cs",
+              "RelativeToolTip": "EscolaVirtual\\InfoChangeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:44:42.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Generic.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Generic.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\Generic.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Generic.cs",
+              "RelativeToolTip": "EscolaVirtual\\Generic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:12:35.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\LoginForm.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\LoginForm.cs",
+              "RelativeToolTip": "EscolaVirtual\\LoginForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwBsAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:11:31.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\LoginForm.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\LoginForm.cs [Design]",
+              "RelativeToolTip": "EscolaVirtual\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:40:30.174Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Admin.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\Admin.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Admin.cs",
+              "RelativeToolTip": "EscolaVirtual\\Admin.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:23:30.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AlunoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\AlunoForm.Designer.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\AlunoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\AlunoForm.Designer.cs",
+              "RelativeToolTip": "EscolaVirtual\\AlunoForm.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:55:59.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Program.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\Program.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Program.cs",
+              "RelativeToolTip": "EscolaVirtual\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:08:35.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Nota.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Nota.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\Nota.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Nota.cs",
+              "RelativeToolTip": "EscolaVirtual\\Nota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:36:49.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ano.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Ano.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\Ano.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Ano.cs",
+              "RelativeToolTip": "EscolaVirtual\\Ano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:11:14.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Turma.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Turma.cs",
+              "RelativeDocumentMoniker": "EscolaVirtual\\Turma.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\EscolaVirtual\\EscolaVirtual\\EscolaVirtual\\Turma.cs",
+              "RelativeToolTip": "EscolaVirtual\\Turma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:05:43.099Z",
+              "EditorCaption": ""
             }
           ]
         }
