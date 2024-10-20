@@ -1,0 +1,22 @@
+Admin.cs
+ metodos CriarAluno; CriarTurma; CriarProfessor
+ 
+ 8-Outubro-2024 
+	Metodos CriarAluno, CriarTurma e CriarProfessor 80%
+	
+ 14-Outubro-2024
+	Garantir a qualidade de todos os dados nas textboxes 10%
+	
+	Funcionalidades dos botoes 
+	
+ 16-Outubro-2024
+	Coloquei listboxes pra o admin poder ver os professores, alunos ou turmas que ja existem 
+	Resolvi alguns problemas nos botoes Criar
+	melhorei a formatacao de dados nas listboxes
+	Falta: Acabar o botao CriarAluno, Fazer o form Aluno e Professor, criar o sistema de requisitar mudança de informaçoes para o admine e o cartao da cafetaria
+	
+ 17-Outubro-2024
+	Botao CriarAluno terminado
+	
+
+	
