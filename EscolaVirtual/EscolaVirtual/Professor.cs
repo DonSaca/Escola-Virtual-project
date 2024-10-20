@@ -28,6 +28,12 @@ namespace EscolaVirtual
 
         }
 
+        //Metodos
+        public void LancarNota(Nota nota, Disciplina disciplina)
+        {
+
+        }
+
 
 
     }

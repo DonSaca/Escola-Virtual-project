@@ -67,6 +67,10 @@ namespace EscolaVirtual
 
         public void CriarDisciplina(string nome, string sigla, int numAulas)
         {
+            if (Generic.ListaDisciplinas.Any(d => d.Sigla == sigla))
+            {
+                throw new InvalidOperationException("Disciplina ja existe!");
+            }
             Disciplina novaDisciplina = new Disciplina(nome, sigla, numAulas);
             Generic.ListaDisciplinas.Add(novaDisciplina);
 

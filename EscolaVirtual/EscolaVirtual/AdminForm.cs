@@ -76,17 +76,40 @@ namespace EscolaVirtual
 
         private void CriarAsDisciplinas()
         {
-            Generic.admin.CriarDisciplina("MATEMATICA", "MAT", 40);
-            Generic.admin.CriarDisciplina("INGLÊS", "ING", 40);
-            Generic.admin.CriarDisciplina("BIOLOGIA", "BIO", 40);
-            Generic.admin.CriarDisciplina("FISICA", "FIS", 40);
-            Generic.admin.CriarDisciplina("HISTORIA", "HIS", 40);
-            Generic.admin.CriarDisciplina("MUSICA", "MUS", 40);
-            Generic.admin.CriarDisciplina("ED. FISICA", "EF", 40);
+            try
+            {
+
+
+                Generic.admin.CriarDisciplina("MATEMATICA", "MAT", 40);
+                Generic.admin.CriarDisciplina("INGLÊS", "ING", 40);
+                Generic.admin.CriarDisciplina("BIOLOGIA", "BIO", 40);
+                Generic.admin.CriarDisciplina("FISICA", "FIS", 40);
+                Generic.admin.CriarDisciplina("HISTORIA", "HIS", 40);
+                Generic.admin.CriarDisciplina("MUSICA", "MUS", 40);
+                Generic.admin.CriarDisciplina("ED. FISICA", "EF", 40);
+            }
+            catch 
+            { return; }
         }
+        private void CriarDummyTurmas()
+        {
+            foreach (var ano in Generic.ListaAnos)
+            {
+                string TurmasA = "A";
+                string TurmasB = "B";
+                string TurmasC = "C";
+                Generic.admin.CriarTurma(TurmasA, ano);
+                Generic.admin.CriarTurma(TurmasB, ano);
+                Generic.admin.CriarTurma(TurmasC, ano);
+
+            }
+        }
+        
+
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            CriarDummyTurmas();
             CriarAsDisciplinas();
             cbAnos.DataSource = Generic.ListaAnos;
             cbAnos.DisplayMember = "Classe";
